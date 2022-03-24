@@ -10,7 +10,10 @@
 - 팀: Chelsea F.C.
 - 클래스: UEFA Champions League(19, 20, 21)
 
-### ✔️ TBD
+### ✔️ 파일 설명
+
+- 전처리: preprocessing.ipynb
+- 선수 분석: fifa-online-analysis.ipynb
 
 ### 데이터 제공
 * [NEXON DEVELOPERS](<https://developers.nexon.com/>)
